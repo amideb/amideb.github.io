@@ -1,7 +1,7 @@
 title: Spring Boot Tutorial
-email: ranga@in28minutes.com
+email: ranga@amideb.com
 description: 1 MILLION learners learning Programming, Cloud and DevOps. Check out our roadmaps!
-url: "https://www.in28minutes.com/"
+url: "https://www.amideb.com/"
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
@@ -12,14 +12,14 @@ products:
   - name: Articles
     url: /blog
   - name: Roadmaps
-    url: https://www.in28minutes.com/roadmaps
+    url: https://www.amideb.com/roadmaps
 
 # Articles
 articles:
   - name: Spring Boot
     url: https://www.springboottutorial.com/blog
   - name: Cloud
-    url: https://cloud.in28minutes.com/blog
+    url: https://cloud.amideb.com/blog
 
 collections:
   blog:
@@ -28,15 +28,15 @@ collections:
 author:
   name: DM
   image: assets/images/about/ranga-karanam-profile-nobg.png
-  about: DM, founder of in28minutes, has 2 decades of experience with technology - architecture, design, and programming.  We are helping learners take their first steps into modern cloud native technology and gain expertise on AWS, Azure, Google Cloud, Docker, Kubernetes amongst others.
+  about: DM, founder of amideb, has 2 decades of experience with technology - architecture, design, and programming.  We are helping learners take their first steps into modern cloud native technology and gain expertise on AWS, Azure, Google Cloud, Docker, Kubernetes amongst others.
   description: 10X certified on AWS, Azure and Google Cloud.
 
 social:
-  twitter: https://twitter.com/in28minutes
+  twitter: https://twitter.com/amideb
   linkedin: http://linkedin.com/in/rangakaranam/
-  github: http://github.com/in28minutes/roadmaps
-  udemy: http://udemy.com/user/in28minutes
-  facebook: https://www.facebook.com/in28Minutes
+  github: http://github.com/amideb/roadmaps
+  udemy: http://udemy.com/user/amideb
+  facebook: https://www.facebook.com/amideb
   youtube: https://www.youtube.com/user/rithustutorials
 
 google_analytics: UA-32942307-5

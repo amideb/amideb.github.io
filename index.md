@@ -8,7 +8,7 @@ header:
   image:
   main_button:
     title: Start learning
-    url: https://www.in28minutes.com/roadmaps
+    url: https://www.amideb.com/roadmaps
   secondary_button:
     title: Watch on YouTube
     url: https://www.youtube.com/user/rithustutorials/videos
@@ -34,7 +34,7 @@ features:
 # About
 about:
   title: YOUR FIRST STEP into Programming, Cloud & DevOps
-  description: DM, the founder of in28minutes, has 2 decades of experience with technology - architecture, design, and programming.  We are helping learners take their first steps into modern cloud native technology and gain expertise on AWS, Azure, Google Cloud, Docker, Kubernetes amongst others.
+  description: DM, the founder of amideb, has 2 decades of experience with technology - architecture, design, and programming.  We are helping learners take their first steps into modern cloud native technology and gain expertise on AWS, Azure, Google Cloud, Docker, Kubernetes amongst others.
 
 # FAQ
 faq:
