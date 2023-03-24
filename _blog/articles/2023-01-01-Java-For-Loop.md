@@ -1,10 +1,10 @@
 ---
 layout:  post
-title:  For Loop
+title:  Java Tutorial - Mastering the For Loop
 date:   2023-01-01 12:31:19
-summary: Java Tutorial For Loop
+summary: Learn how to use the for loop in Java to execute a block of code repeatedly until a condition is met. This tutorial covers the syntax and usage of the for loop in Java, and provides examples to help you get started.
 categories: JavaProgrammingCT
-permalink:  /java-for-loop
+permalink:  /java-tutorial-mastering-the-for-loop
 image: /images/spring-boot-category.png
 ---
 
