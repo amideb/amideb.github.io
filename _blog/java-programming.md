@@ -1,6 +1,6 @@
 ---
 layout: category
 title: Java Programming
-slug: SwJavaProgrammers
+slug: JavaProgrammingCT
 image: /images/java-category.png
 ---

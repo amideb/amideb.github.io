@@ -3,7 +3,7 @@ layout:  post
 title:  For Loop
 date:   2023-01-01 12:31:19
 summary: Java Tutorial For Loop
-categories: SwJavaProgrammers
+categories: JavaProgrammingCT
 permalink:  /java-for-loop
 image: /images/spring-boot-category.png
 ---
